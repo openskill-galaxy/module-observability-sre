@@ -1,0 +1,3460 @@
+[
+  {
+    "id": "sr-lesson-001",
+    "courseId": "sr-course-01",
+    "order": 1,
+    "title": "SRE课程1章1",
+    "slug": "SRE课程1章1",
+    "summary": "SRE课程1章1",
+    "content": "# SRE课程1章1\n\nSRE课程1章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-002",
+    "courseId": "sr-course-01",
+    "order": 2,
+    "title": "SRE课程1章2",
+    "slug": "SRE课程1章2",
+    "summary": "SRE课程1章2",
+    "content": "# SRE课程1章2\n\nSRE课程1章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-003",
+    "courseId": "sr-course-01",
+    "order": 3,
+    "title": "SRE课程1章3",
+    "slug": "SRE课程1章3",
+    "summary": "SRE课程1章3",
+    "content": "# SRE课程1章3\n\nSRE课程1章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-004",
+    "courseId": "sr-course-01",
+    "order": 4,
+    "title": "SRE课程1章4",
+    "slug": "SRE课程1章4",
+    "summary": "SRE课程1章4",
+    "content": "# SRE课程1章4\n\nSRE课程1章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-005",
+    "courseId": "sr-course-01",
+    "order": 5,
+    "title": "SRE课程1章5",
+    "slug": "SRE课程1章5",
+    "summary": "SRE课程1章5",
+    "content": "# SRE课程1章5\n\nSRE课程1章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-006",
+    "courseId": "sr-course-01",
+    "order": 6,
+    "title": "SRE课程1章6",
+    "slug": "SRE课程1章6",
+    "summary": "SRE课程1章6",
+    "content": "# SRE课程1章6\n\nSRE课程1章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-007",
+    "courseId": "sr-course-01",
+    "order": 7,
+    "title": "SRE课程1章7",
+    "slug": "SRE课程1章7",
+    "summary": "SRE课程1章7",
+    "content": "# SRE课程1章7\n\nSRE课程1章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-008",
+    "courseId": "sr-course-01",
+    "order": 8,
+    "title": "SRE课程1章8",
+    "slug": "SRE课程1章8",
+    "summary": "SRE课程1章8",
+    "content": "# SRE课程1章8\n\nSRE课程1章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-009",
+    "courseId": "sr-course-01",
+    "order": 9,
+    "title": "SRE课程1章9",
+    "slug": "SRE课程1章9",
+    "summary": "SRE课程1章9",
+    "content": "# SRE课程1章9\n\nSRE课程1章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-010",
+    "courseId": "sr-course-01",
+    "order": 10,
+    "title": "SRE课程1章10",
+    "slug": "SRE课程1章10",
+    "summary": "SRE课程1章10",
+    "content": "# SRE课程1章10\n\nSRE课程1章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-011",
+    "courseId": "sr-course-01",
+    "order": 11,
+    "title": "SRE课程1章11",
+    "slug": "SRE课程1章11",
+    "summary": "SRE课程1章11",
+    "content": "# SRE课程1章11\n\nSRE课程1章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-012",
+    "courseId": "sr-course-01",
+    "order": 12,
+    "title": "SRE课程1章12",
+    "slug": "SRE课程1章12",
+    "summary": "SRE课程1章12",
+    "content": "# SRE课程1章12\n\nSRE课程1章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-013",
+    "courseId": "sr-course-01",
+    "order": 13,
+    "title": "SRE课程1章13",
+    "slug": "SRE课程1章13",
+    "summary": "SRE课程1章13",
+    "content": "# SRE课程1章13\n\nSRE课程1章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-014",
+    "courseId": "sr-course-02",
+    "order": 1,
+    "title": "SRE课程2章1",
+    "slug": "SRE课程2章1",
+    "summary": "SRE课程2章1",
+    "content": "# SRE课程2章1\n\nSRE课程2章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-015",
+    "courseId": "sr-course-02",
+    "order": 2,
+    "title": "SRE课程2章2",
+    "slug": "SRE课程2章2",
+    "summary": "SRE课程2章2",
+    "content": "# SRE课程2章2\n\nSRE课程2章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-016",
+    "courseId": "sr-course-02",
+    "order": 3,
+    "title": "SRE课程2章3",
+    "slug": "SRE课程2章3",
+    "summary": "SRE课程2章3",
+    "content": "# SRE课程2章3\n\nSRE课程2章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-017",
+    "courseId": "sr-course-02",
+    "order": 4,
+    "title": "SRE课程2章4",
+    "slug": "SRE课程2章4",
+    "summary": "SRE课程2章4",
+    "content": "# SRE课程2章4\n\nSRE课程2章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-018",
+    "courseId": "sr-course-02",
+    "order": 5,
+    "title": "SRE课程2章5",
+    "slug": "SRE课程2章5",
+    "summary": "SRE课程2章5",
+    "content": "# SRE课程2章5\n\nSRE课程2章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-019",
+    "courseId": "sr-course-02",
+    "order": 6,
+    "title": "SRE课程2章6",
+    "slug": "SRE课程2章6",
+    "summary": "SRE课程2章6",
+    "content": "# SRE课程2章6\n\nSRE课程2章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-020",
+    "courseId": "sr-course-02",
+    "order": 7,
+    "title": "SRE课程2章7",
+    "slug": "SRE课程2章7",
+    "summary": "SRE课程2章7",
+    "content": "# SRE课程2章7\n\nSRE课程2章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-021",
+    "courseId": "sr-course-02",
+    "order": 8,
+    "title": "SRE课程2章8",
+    "slug": "SRE课程2章8",
+    "summary": "SRE课程2章8",
+    "content": "# SRE课程2章8\n\nSRE课程2章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-022",
+    "courseId": "sr-course-02",
+    "order": 9,
+    "title": "SRE课程2章9",
+    "slug": "SRE课程2章9",
+    "summary": "SRE课程2章9",
+    "content": "# SRE课程2章9\n\nSRE课程2章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-023",
+    "courseId": "sr-course-02",
+    "order": 10,
+    "title": "SRE课程2章10",
+    "slug": "SRE课程2章10",
+    "summary": "SRE课程2章10",
+    "content": "# SRE课程2章10\n\nSRE课程2章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-024",
+    "courseId": "sr-course-02",
+    "order": 11,
+    "title": "SRE课程2章11",
+    "slug": "SRE课程2章11",
+    "summary": "SRE课程2章11",
+    "content": "# SRE课程2章11\n\nSRE课程2章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-025",
+    "courseId": "sr-course-02",
+    "order": 12,
+    "title": "SRE课程2章12",
+    "slug": "SRE课程2章12",
+    "summary": "SRE课程2章12",
+    "content": "# SRE课程2章12\n\nSRE课程2章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-026",
+    "courseId": "sr-course-02",
+    "order": 13,
+    "title": "SRE课程2章13",
+    "slug": "SRE课程2章13",
+    "summary": "SRE课程2章13",
+    "content": "# SRE课程2章13\n\nSRE课程2章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-027",
+    "courseId": "sr-course-03",
+    "order": 1,
+    "title": "SRE课程3章1",
+    "slug": "SRE课程3章1",
+    "summary": "SRE课程3章1",
+    "content": "# SRE课程3章1\n\nSRE课程3章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-028",
+    "courseId": "sr-course-03",
+    "order": 2,
+    "title": "SRE课程3章2",
+    "slug": "SRE课程3章2",
+    "summary": "SRE课程3章2",
+    "content": "# SRE课程3章2\n\nSRE课程3章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-029",
+    "courseId": "sr-course-03",
+    "order": 3,
+    "title": "SRE课程3章3",
+    "slug": "SRE课程3章3",
+    "summary": "SRE课程3章3",
+    "content": "# SRE课程3章3\n\nSRE课程3章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-030",
+    "courseId": "sr-course-03",
+    "order": 4,
+    "title": "SRE课程3章4",
+    "slug": "SRE课程3章4",
+    "summary": "SRE课程3章4",
+    "content": "# SRE课程3章4\n\nSRE课程3章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-031",
+    "courseId": "sr-course-03",
+    "order": 5,
+    "title": "SRE课程3章5",
+    "slug": "SRE课程3章5",
+    "summary": "SRE课程3章5",
+    "content": "# SRE课程3章5\n\nSRE课程3章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-032",
+    "courseId": "sr-course-03",
+    "order": 6,
+    "title": "SRE课程3章6",
+    "slug": "SRE课程3章6",
+    "summary": "SRE课程3章6",
+    "content": "# SRE课程3章6\n\nSRE课程3章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-033",
+    "courseId": "sr-course-03",
+    "order": 7,
+    "title": "SRE课程3章7",
+    "slug": "SRE课程3章7",
+    "summary": "SRE课程3章7",
+    "content": "# SRE课程3章7\n\nSRE课程3章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-034",
+    "courseId": "sr-course-03",
+    "order": 8,
+    "title": "SRE课程3章8",
+    "slug": "SRE课程3章8",
+    "summary": "SRE课程3章8",
+    "content": "# SRE课程3章8\n\nSRE课程3章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-035",
+    "courseId": "sr-course-03",
+    "order": 9,
+    "title": "SRE课程3章9",
+    "slug": "SRE课程3章9",
+    "summary": "SRE课程3章9",
+    "content": "# SRE课程3章9\n\nSRE课程3章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-036",
+    "courseId": "sr-course-03",
+    "order": 10,
+    "title": "SRE课程3章10",
+    "slug": "SRE课程3章10",
+    "summary": "SRE课程3章10",
+    "content": "# SRE课程3章10\n\nSRE课程3章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-037",
+    "courseId": "sr-course-03",
+    "order": 11,
+    "title": "SRE课程3章11",
+    "slug": "SRE课程3章11",
+    "summary": "SRE课程3章11",
+    "content": "# SRE课程3章11\n\nSRE课程3章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-038",
+    "courseId": "sr-course-03",
+    "order": 12,
+    "title": "SRE课程3章12",
+    "slug": "SRE课程3章12",
+    "summary": "SRE课程3章12",
+    "content": "# SRE课程3章12\n\nSRE课程3章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-039",
+    "courseId": "sr-course-03",
+    "order": 13,
+    "title": "SRE课程3章13",
+    "slug": "SRE课程3章13",
+    "summary": "SRE课程3章13",
+    "content": "# SRE课程3章13\n\nSRE课程3章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-040",
+    "courseId": "sr-course-04",
+    "order": 1,
+    "title": "SRE课程4章1",
+    "slug": "SRE课程4章1",
+    "summary": "SRE课程4章1",
+    "content": "# SRE课程4章1\n\nSRE课程4章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-041",
+    "courseId": "sr-course-04",
+    "order": 2,
+    "title": "SRE课程4章2",
+    "slug": "SRE课程4章2",
+    "summary": "SRE课程4章2",
+    "content": "# SRE课程4章2\n\nSRE课程4章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-042",
+    "courseId": "sr-course-04",
+    "order": 3,
+    "title": "SRE课程4章3",
+    "slug": "SRE课程4章3",
+    "summary": "SRE课程4章3",
+    "content": "# SRE课程4章3\n\nSRE课程4章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-043",
+    "courseId": "sr-course-04",
+    "order": 4,
+    "title": "SRE课程4章4",
+    "slug": "SRE课程4章4",
+    "summary": "SRE课程4章4",
+    "content": "# SRE课程4章4\n\nSRE课程4章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-044",
+    "courseId": "sr-course-04",
+    "order": 5,
+    "title": "SRE课程4章5",
+    "slug": "SRE课程4章5",
+    "summary": "SRE课程4章5",
+    "content": "# SRE课程4章5\n\nSRE课程4章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-045",
+    "courseId": "sr-course-04",
+    "order": 6,
+    "title": "SRE课程4章6",
+    "slug": "SRE课程4章6",
+    "summary": "SRE课程4章6",
+    "content": "# SRE课程4章6\n\nSRE课程4章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-046",
+    "courseId": "sr-course-04",
+    "order": 7,
+    "title": "SRE课程4章7",
+    "slug": "SRE课程4章7",
+    "summary": "SRE课程4章7",
+    "content": "# SRE课程4章7\n\nSRE课程4章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-047",
+    "courseId": "sr-course-04",
+    "order": 8,
+    "title": "SRE课程4章8",
+    "slug": "SRE课程4章8",
+    "summary": "SRE课程4章8",
+    "content": "# SRE课程4章8\n\nSRE课程4章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-048",
+    "courseId": "sr-course-04",
+    "order": 9,
+    "title": "SRE课程4章9",
+    "slug": "SRE课程4章9",
+    "summary": "SRE课程4章9",
+    "content": "# SRE课程4章9\n\nSRE课程4章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-049",
+    "courseId": "sr-course-04",
+    "order": 10,
+    "title": "SRE课程4章10",
+    "slug": "SRE课程4章10",
+    "summary": "SRE课程4章10",
+    "content": "# SRE课程4章10\n\nSRE课程4章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-050",
+    "courseId": "sr-course-04",
+    "order": 11,
+    "title": "SRE课程4章11",
+    "slug": "SRE课程4章11",
+    "summary": "SRE课程4章11",
+    "content": "# SRE课程4章11\n\nSRE课程4章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-051",
+    "courseId": "sr-course-04",
+    "order": 12,
+    "title": "SRE课程4章12",
+    "slug": "SRE课程4章12",
+    "summary": "SRE课程4章12",
+    "content": "# SRE课程4章12\n\nSRE课程4章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-052",
+    "courseId": "sr-course-04",
+    "order": 13,
+    "title": "SRE课程4章13",
+    "slug": "SRE课程4章13",
+    "summary": "SRE课程4章13",
+    "content": "# SRE课程4章13\n\nSRE课程4章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-053",
+    "courseId": "sr-course-05",
+    "order": 1,
+    "title": "SRE课程5章1",
+    "slug": "SRE课程5章1",
+    "summary": "SRE课程5章1",
+    "content": "# SRE课程5章1\n\nSRE课程5章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-054",
+    "courseId": "sr-course-05",
+    "order": 2,
+    "title": "SRE课程5章2",
+    "slug": "SRE课程5章2",
+    "summary": "SRE课程5章2",
+    "content": "# SRE课程5章2\n\nSRE课程5章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-055",
+    "courseId": "sr-course-05",
+    "order": 3,
+    "title": "SRE课程5章3",
+    "slug": "SRE课程5章3",
+    "summary": "SRE课程5章3",
+    "content": "# SRE课程5章3\n\nSRE课程5章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-056",
+    "courseId": "sr-course-05",
+    "order": 4,
+    "title": "SRE课程5章4",
+    "slug": "SRE课程5章4",
+    "summary": "SRE课程5章4",
+    "content": "# SRE课程5章4\n\nSRE课程5章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-057",
+    "courseId": "sr-course-05",
+    "order": 5,
+    "title": "SRE课程5章5",
+    "slug": "SRE课程5章5",
+    "summary": "SRE课程5章5",
+    "content": "# SRE课程5章5\n\nSRE课程5章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-058",
+    "courseId": "sr-course-05",
+    "order": 6,
+    "title": "SRE课程5章6",
+    "slug": "SRE课程5章6",
+    "summary": "SRE课程5章6",
+    "content": "# SRE课程5章6\n\nSRE课程5章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-059",
+    "courseId": "sr-course-05",
+    "order": 7,
+    "title": "SRE课程5章7",
+    "slug": "SRE课程5章7",
+    "summary": "SRE课程5章7",
+    "content": "# SRE课程5章7\n\nSRE课程5章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-060",
+    "courseId": "sr-course-05",
+    "order": 8,
+    "title": "SRE课程5章8",
+    "slug": "SRE课程5章8",
+    "summary": "SRE课程5章8",
+    "content": "# SRE课程5章8\n\nSRE课程5章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-061",
+    "courseId": "sr-course-05",
+    "order": 9,
+    "title": "SRE课程5章9",
+    "slug": "SRE课程5章9",
+    "summary": "SRE课程5章9",
+    "content": "# SRE课程5章9\n\nSRE课程5章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-062",
+    "courseId": "sr-course-05",
+    "order": 10,
+    "title": "SRE课程5章10",
+    "slug": "SRE课程5章10",
+    "summary": "SRE课程5章10",
+    "content": "# SRE课程5章10\n\nSRE课程5章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-063",
+    "courseId": "sr-course-05",
+    "order": 11,
+    "title": "SRE课程5章11",
+    "slug": "SRE课程5章11",
+    "summary": "SRE课程5章11",
+    "content": "# SRE课程5章11\n\nSRE课程5章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-064",
+    "courseId": "sr-course-05",
+    "order": 12,
+    "title": "SRE课程5章12",
+    "slug": "SRE课程5章12",
+    "summary": "SRE课程5章12",
+    "content": "# SRE课程5章12\n\nSRE课程5章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-065",
+    "courseId": "sr-course-05",
+    "order": 13,
+    "title": "SRE课程5章13",
+    "slug": "SRE课程5章13",
+    "summary": "SRE课程5章13",
+    "content": "# SRE课程5章13\n\nSRE课程5章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-066",
+    "courseId": "sr-course-06",
+    "order": 1,
+    "title": "SRE课程6章1",
+    "slug": "SRE课程6章1",
+    "summary": "SRE课程6章1",
+    "content": "# SRE课程6章1\n\nSRE课程6章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-067",
+    "courseId": "sr-course-06",
+    "order": 2,
+    "title": "SRE课程6章2",
+    "slug": "SRE课程6章2",
+    "summary": "SRE课程6章2",
+    "content": "# SRE课程6章2\n\nSRE课程6章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-068",
+    "courseId": "sr-course-06",
+    "order": 3,
+    "title": "SRE课程6章3",
+    "slug": "SRE课程6章3",
+    "summary": "SRE课程6章3",
+    "content": "# SRE课程6章3\n\nSRE课程6章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-069",
+    "courseId": "sr-course-06",
+    "order": 4,
+    "title": "SRE课程6章4",
+    "slug": "SRE课程6章4",
+    "summary": "SRE课程6章4",
+    "content": "# SRE课程6章4\n\nSRE课程6章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-070",
+    "courseId": "sr-course-06",
+    "order": 5,
+    "title": "SRE课程6章5",
+    "slug": "SRE课程6章5",
+    "summary": "SRE课程6章5",
+    "content": "# SRE课程6章5\n\nSRE课程6章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-071",
+    "courseId": "sr-course-06",
+    "order": 6,
+    "title": "SRE课程6章6",
+    "slug": "SRE课程6章6",
+    "summary": "SRE课程6章6",
+    "content": "# SRE课程6章6\n\nSRE课程6章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-072",
+    "courseId": "sr-course-06",
+    "order": 7,
+    "title": "SRE课程6章7",
+    "slug": "SRE课程6章7",
+    "summary": "SRE课程6章7",
+    "content": "# SRE课程6章7\n\nSRE课程6章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-073",
+    "courseId": "sr-course-06",
+    "order": 8,
+    "title": "SRE课程6章8",
+    "slug": "SRE课程6章8",
+    "summary": "SRE课程6章8",
+    "content": "# SRE课程6章8\n\nSRE课程6章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-074",
+    "courseId": "sr-course-06",
+    "order": 9,
+    "title": "SRE课程6章9",
+    "slug": "SRE课程6章9",
+    "summary": "SRE课程6章9",
+    "content": "# SRE课程6章9\n\nSRE课程6章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-075",
+    "courseId": "sr-course-06",
+    "order": 10,
+    "title": "SRE课程6章10",
+    "slug": "SRE课程6章10",
+    "summary": "SRE课程6章10",
+    "content": "# SRE课程6章10\n\nSRE课程6章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-076",
+    "courseId": "sr-course-06",
+    "order": 11,
+    "title": "SRE课程6章11",
+    "slug": "SRE课程6章11",
+    "summary": "SRE课程6章11",
+    "content": "# SRE课程6章11\n\nSRE课程6章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-077",
+    "courseId": "sr-course-06",
+    "order": 12,
+    "title": "SRE课程6章12",
+    "slug": "SRE课程6章12",
+    "summary": "SRE课程6章12",
+    "content": "# SRE课程6章12\n\nSRE课程6章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-078",
+    "courseId": "sr-course-06",
+    "order": 13,
+    "title": "SRE课程6章13",
+    "slug": "SRE课程6章13",
+    "summary": "SRE课程6章13",
+    "content": "# SRE课程6章13\n\nSRE课程6章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-079",
+    "courseId": "sr-course-07",
+    "order": 1,
+    "title": "SRE课程7章1",
+    "slug": "SRE课程7章1",
+    "summary": "SRE课程7章1",
+    "content": "# SRE课程7章1\n\nSRE课程7章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-080",
+    "courseId": "sr-course-07",
+    "order": 2,
+    "title": "SRE课程7章2",
+    "slug": "SRE课程7章2",
+    "summary": "SRE课程7章2",
+    "content": "# SRE课程7章2\n\nSRE课程7章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-081",
+    "courseId": "sr-course-07",
+    "order": 3,
+    "title": "SRE课程7章3",
+    "slug": "SRE课程7章3",
+    "summary": "SRE课程7章3",
+    "content": "# SRE课程7章3\n\nSRE课程7章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-082",
+    "courseId": "sr-course-07",
+    "order": 4,
+    "title": "SRE课程7章4",
+    "slug": "SRE课程7章4",
+    "summary": "SRE课程7章4",
+    "content": "# SRE课程7章4\n\nSRE课程7章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-083",
+    "courseId": "sr-course-07",
+    "order": 5,
+    "title": "SRE课程7章5",
+    "slug": "SRE课程7章5",
+    "summary": "SRE课程7章5",
+    "content": "# SRE课程7章5\n\nSRE课程7章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-084",
+    "courseId": "sr-course-07",
+    "order": 6,
+    "title": "SRE课程7章6",
+    "slug": "SRE课程7章6",
+    "summary": "SRE课程7章6",
+    "content": "# SRE课程7章6\n\nSRE课程7章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-085",
+    "courseId": "sr-course-07",
+    "order": 7,
+    "title": "SRE课程7章7",
+    "slug": "SRE课程7章7",
+    "summary": "SRE课程7章7",
+    "content": "# SRE课程7章7\n\nSRE课程7章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-086",
+    "courseId": "sr-course-07",
+    "order": 8,
+    "title": "SRE课程7章8",
+    "slug": "SRE课程7章8",
+    "summary": "SRE课程7章8",
+    "content": "# SRE课程7章8\n\nSRE课程7章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-087",
+    "courseId": "sr-course-07",
+    "order": 9,
+    "title": "SRE课程7章9",
+    "slug": "SRE课程7章9",
+    "summary": "SRE课程7章9",
+    "content": "# SRE课程7章9\n\nSRE课程7章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-088",
+    "courseId": "sr-course-07",
+    "order": 10,
+    "title": "SRE课程7章10",
+    "slug": "SRE课程7章10",
+    "summary": "SRE课程7章10",
+    "content": "# SRE课程7章10\n\nSRE课程7章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-089",
+    "courseId": "sr-course-07",
+    "order": 11,
+    "title": "SRE课程7章11",
+    "slug": "SRE课程7章11",
+    "summary": "SRE课程7章11",
+    "content": "# SRE课程7章11\n\nSRE课程7章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-090",
+    "courseId": "sr-course-07",
+    "order": 12,
+    "title": "SRE课程7章12",
+    "slug": "SRE课程7章12",
+    "summary": "SRE课程7章12",
+    "content": "# SRE课程7章12\n\nSRE课程7章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-091",
+    "courseId": "sr-course-07",
+    "order": 13,
+    "title": "SRE课程7章13",
+    "slug": "SRE课程7章13",
+    "summary": "SRE课程7章13",
+    "content": "# SRE课程7章13\n\nSRE课程7章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-092",
+    "courseId": "sr-course-08",
+    "order": 1,
+    "title": "SRE课程8章1",
+    "slug": "SRE课程8章1",
+    "summary": "SRE课程8章1",
+    "content": "# SRE课程8章1\n\nSRE课程8章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-093",
+    "courseId": "sr-course-08",
+    "order": 2,
+    "title": "SRE课程8章2",
+    "slug": "SRE课程8章2",
+    "summary": "SRE课程8章2",
+    "content": "# SRE课程8章2\n\nSRE课程8章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-094",
+    "courseId": "sr-course-08",
+    "order": 3,
+    "title": "SRE课程8章3",
+    "slug": "SRE课程8章3",
+    "summary": "SRE课程8章3",
+    "content": "# SRE课程8章3\n\nSRE课程8章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-095",
+    "courseId": "sr-course-08",
+    "order": 4,
+    "title": "SRE课程8章4",
+    "slug": "SRE课程8章4",
+    "summary": "SRE课程8章4",
+    "content": "# SRE课程8章4\n\nSRE课程8章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-096",
+    "courseId": "sr-course-08",
+    "order": 5,
+    "title": "SRE课程8章5",
+    "slug": "SRE课程8章5",
+    "summary": "SRE课程8章5",
+    "content": "# SRE课程8章5\n\nSRE课程8章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-097",
+    "courseId": "sr-course-08",
+    "order": 6,
+    "title": "SRE课程8章6",
+    "slug": "SRE课程8章6",
+    "summary": "SRE课程8章6",
+    "content": "# SRE课程8章6\n\nSRE课程8章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-098",
+    "courseId": "sr-course-08",
+    "order": 7,
+    "title": "SRE课程8章7",
+    "slug": "SRE课程8章7",
+    "summary": "SRE课程8章7",
+    "content": "# SRE课程8章7\n\nSRE课程8章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-099",
+    "courseId": "sr-course-08",
+    "order": 8,
+    "title": "SRE课程8章8",
+    "slug": "SRE课程8章8",
+    "summary": "SRE课程8章8",
+    "content": "# SRE课程8章8\n\nSRE课程8章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-100",
+    "courseId": "sr-course-08",
+    "order": 9,
+    "title": "SRE课程8章9",
+    "slug": "SRE课程8章9",
+    "summary": "SRE课程8章9",
+    "content": "# SRE课程8章9\n\nSRE课程8章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-101",
+    "courseId": "sr-course-08",
+    "order": 10,
+    "title": "SRE课程8章10",
+    "slug": "SRE课程8章10",
+    "summary": "SRE课程8章10",
+    "content": "# SRE课程8章10\n\nSRE课程8章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-102",
+    "courseId": "sr-course-08",
+    "order": 11,
+    "title": "SRE课程8章11",
+    "slug": "SRE课程8章11",
+    "summary": "SRE课程8章11",
+    "content": "# SRE课程8章11\n\nSRE课程8章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-103",
+    "courseId": "sr-course-08",
+    "order": 12,
+    "title": "SRE课程8章12",
+    "slug": "SRE课程8章12",
+    "summary": "SRE课程8章12",
+    "content": "# SRE课程8章12\n\nSRE课程8章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-104",
+    "courseId": "sr-course-08",
+    "order": 13,
+    "title": "SRE课程8章13",
+    "slug": "SRE课程8章13",
+    "summary": "SRE课程8章13",
+    "content": "# SRE课程8章13\n\nSRE课程8章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-105",
+    "courseId": "sr-course-09",
+    "order": 1,
+    "title": "SRE课程9章1",
+    "slug": "SRE课程9章1",
+    "summary": "SRE课程9章1",
+    "content": "# SRE课程9章1\n\nSRE课程9章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-106",
+    "courseId": "sr-course-09",
+    "order": 2,
+    "title": "SRE课程9章2",
+    "slug": "SRE课程9章2",
+    "summary": "SRE课程9章2",
+    "content": "# SRE课程9章2\n\nSRE课程9章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-107",
+    "courseId": "sr-course-09",
+    "order": 3,
+    "title": "SRE课程9章3",
+    "slug": "SRE课程9章3",
+    "summary": "SRE课程9章3",
+    "content": "# SRE课程9章3\n\nSRE课程9章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-108",
+    "courseId": "sr-course-09",
+    "order": 4,
+    "title": "SRE课程9章4",
+    "slug": "SRE课程9章4",
+    "summary": "SRE课程9章4",
+    "content": "# SRE课程9章4\n\nSRE课程9章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-109",
+    "courseId": "sr-course-09",
+    "order": 5,
+    "title": "SRE课程9章5",
+    "slug": "SRE课程9章5",
+    "summary": "SRE课程9章5",
+    "content": "# SRE课程9章5\n\nSRE课程9章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-110",
+    "courseId": "sr-course-09",
+    "order": 6,
+    "title": "SRE课程9章6",
+    "slug": "SRE课程9章6",
+    "summary": "SRE课程9章6",
+    "content": "# SRE课程9章6\n\nSRE课程9章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-111",
+    "courseId": "sr-course-09",
+    "order": 7,
+    "title": "SRE课程9章7",
+    "slug": "SRE课程9章7",
+    "summary": "SRE课程9章7",
+    "content": "# SRE课程9章7\n\nSRE课程9章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-112",
+    "courseId": "sr-course-09",
+    "order": 8,
+    "title": "SRE课程9章8",
+    "slug": "SRE课程9章8",
+    "summary": "SRE课程9章8",
+    "content": "# SRE课程9章8\n\nSRE课程9章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-113",
+    "courseId": "sr-course-09",
+    "order": 9,
+    "title": "SRE课程9章9",
+    "slug": "SRE课程9章9",
+    "summary": "SRE课程9章9",
+    "content": "# SRE课程9章9\n\nSRE课程9章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-114",
+    "courseId": "sr-course-09",
+    "order": 10,
+    "title": "SRE课程9章10",
+    "slug": "SRE课程9章10",
+    "summary": "SRE课程9章10",
+    "content": "# SRE课程9章10\n\nSRE课程9章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-115",
+    "courseId": "sr-course-09",
+    "order": 11,
+    "title": "SRE课程9章11",
+    "slug": "SRE课程9章11",
+    "summary": "SRE课程9章11",
+    "content": "# SRE课程9章11\n\nSRE课程9章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-116",
+    "courseId": "sr-course-09",
+    "order": 12,
+    "title": "SRE课程9章12",
+    "slug": "SRE课程9章12",
+    "summary": "SRE课程9章12",
+    "content": "# SRE课程9章12\n\nSRE课程9章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-117",
+    "courseId": "sr-course-09",
+    "order": 13,
+    "title": "SRE课程9章13",
+    "slug": "SRE课程9章13",
+    "summary": "SRE课程9章13",
+    "content": "# SRE课程9章13\n\nSRE课程9章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-118",
+    "courseId": "sr-course-10",
+    "order": 1,
+    "title": "SRE课程10章1",
+    "slug": "SRE课程10章1",
+    "summary": "SRE课程10章1",
+    "content": "# SRE课程10章1\n\nSRE课程10章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-119",
+    "courseId": "sr-course-10",
+    "order": 2,
+    "title": "SRE课程10章2",
+    "slug": "SRE课程10章2",
+    "summary": "SRE课程10章2",
+    "content": "# SRE课程10章2\n\nSRE课程10章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-120",
+    "courseId": "sr-course-10",
+    "order": 3,
+    "title": "SRE课程10章3",
+    "slug": "SRE课程10章3",
+    "summary": "SRE课程10章3",
+    "content": "# SRE课程10章3\n\nSRE课程10章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-121",
+    "courseId": "sr-course-10",
+    "order": 4,
+    "title": "SRE课程10章4",
+    "slug": "SRE课程10章4",
+    "summary": "SRE课程10章4",
+    "content": "# SRE课程10章4\n\nSRE课程10章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-122",
+    "courseId": "sr-course-10",
+    "order": 5,
+    "title": "SRE课程10章5",
+    "slug": "SRE课程10章5",
+    "summary": "SRE课程10章5",
+    "content": "# SRE课程10章5\n\nSRE课程10章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-123",
+    "courseId": "sr-course-10",
+    "order": 6,
+    "title": "SRE课程10章6",
+    "slug": "SRE课程10章6",
+    "summary": "SRE课程10章6",
+    "content": "# SRE课程10章6\n\nSRE课程10章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-124",
+    "courseId": "sr-course-10",
+    "order": 7,
+    "title": "SRE课程10章7",
+    "slug": "SRE课程10章7",
+    "summary": "SRE课程10章7",
+    "content": "# SRE课程10章7\n\nSRE课程10章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-125",
+    "courseId": "sr-course-10",
+    "order": 8,
+    "title": "SRE课程10章8",
+    "slug": "SRE课程10章8",
+    "summary": "SRE课程10章8",
+    "content": "# SRE课程10章8\n\nSRE课程10章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-126",
+    "courseId": "sr-course-10",
+    "order": 9,
+    "title": "SRE课程10章9",
+    "slug": "SRE课程10章9",
+    "summary": "SRE课程10章9",
+    "content": "# SRE课程10章9\n\nSRE课程10章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-127",
+    "courseId": "sr-course-10",
+    "order": 10,
+    "title": "SRE课程10章10",
+    "slug": "SRE课程10章10",
+    "summary": "SRE课程10章10",
+    "content": "# SRE课程10章10\n\nSRE课程10章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-128",
+    "courseId": "sr-course-10",
+    "order": 11,
+    "title": "SRE课程10章11",
+    "slug": "SRE课程10章11",
+    "summary": "SRE课程10章11",
+    "content": "# SRE课程10章11\n\nSRE课程10章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-129",
+    "courseId": "sr-course-10",
+    "order": 12,
+    "title": "SRE课程10章12",
+    "slug": "SRE课程10章12",
+    "summary": "SRE课程10章12",
+    "content": "# SRE课程10章12\n\nSRE课程10章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-130",
+    "courseId": "sr-course-10",
+    "order": 13,
+    "title": "SRE课程10章13",
+    "slug": "SRE课程10章13",
+    "summary": "SRE课程10章13",
+    "content": "# SRE课程10章13\n\nSRE课程10章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-131",
+    "courseId": "sr-course-11",
+    "order": 1,
+    "title": "SRE课程11章1",
+    "slug": "SRE课程11章1",
+    "summary": "SRE课程11章1",
+    "content": "# SRE课程11章1\n\nSRE课程11章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-132",
+    "courseId": "sr-course-11",
+    "order": 2,
+    "title": "SRE课程11章2",
+    "slug": "SRE课程11章2",
+    "summary": "SRE课程11章2",
+    "content": "# SRE课程11章2\n\nSRE课程11章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-133",
+    "courseId": "sr-course-11",
+    "order": 3,
+    "title": "SRE课程11章3",
+    "slug": "SRE课程11章3",
+    "summary": "SRE课程11章3",
+    "content": "# SRE课程11章3\n\nSRE课程11章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-134",
+    "courseId": "sr-course-11",
+    "order": 4,
+    "title": "SRE课程11章4",
+    "slug": "SRE课程11章4",
+    "summary": "SRE课程11章4",
+    "content": "# SRE课程11章4\n\nSRE课程11章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-135",
+    "courseId": "sr-course-11",
+    "order": 5,
+    "title": "SRE课程11章5",
+    "slug": "SRE课程11章5",
+    "summary": "SRE课程11章5",
+    "content": "# SRE课程11章5\n\nSRE课程11章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-136",
+    "courseId": "sr-course-11",
+    "order": 6,
+    "title": "SRE课程11章6",
+    "slug": "SRE课程11章6",
+    "summary": "SRE课程11章6",
+    "content": "# SRE课程11章6\n\nSRE课程11章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-137",
+    "courseId": "sr-course-11",
+    "order": 7,
+    "title": "SRE课程11章7",
+    "slug": "SRE课程11章7",
+    "summary": "SRE课程11章7",
+    "content": "# SRE课程11章7\n\nSRE课程11章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-138",
+    "courseId": "sr-course-11",
+    "order": 8,
+    "title": "SRE课程11章8",
+    "slug": "SRE课程11章8",
+    "summary": "SRE课程11章8",
+    "content": "# SRE课程11章8\n\nSRE课程11章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-139",
+    "courseId": "sr-course-11",
+    "order": 9,
+    "title": "SRE课程11章9",
+    "slug": "SRE课程11章9",
+    "summary": "SRE课程11章9",
+    "content": "# SRE课程11章9\n\nSRE课程11章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-140",
+    "courseId": "sr-course-11",
+    "order": 10,
+    "title": "SRE课程11章10",
+    "slug": "SRE课程11章10",
+    "summary": "SRE课程11章10",
+    "content": "# SRE课程11章10\n\nSRE课程11章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-141",
+    "courseId": "sr-course-11",
+    "order": 11,
+    "title": "SRE课程11章11",
+    "slug": "SRE课程11章11",
+    "summary": "SRE课程11章11",
+    "content": "# SRE课程11章11\n\nSRE课程11章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-142",
+    "courseId": "sr-course-11",
+    "order": 12,
+    "title": "SRE课程11章12",
+    "slug": "SRE课程11章12",
+    "summary": "SRE课程11章12",
+    "content": "# SRE课程11章12\n\nSRE课程11章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-143",
+    "courseId": "sr-course-11",
+    "order": 13,
+    "title": "SRE课程11章13",
+    "slug": "SRE课程11章13",
+    "summary": "SRE课程11章13",
+    "content": "# SRE课程11章13\n\nSRE课程11章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-144",
+    "courseId": "sr-course-12",
+    "order": 1,
+    "title": "SRE课程12章1",
+    "slug": "SRE课程12章1",
+    "summary": "SRE课程12章1",
+    "content": "# SRE课程12章1\n\nSRE课程12章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-145",
+    "courseId": "sr-course-12",
+    "order": 2,
+    "title": "SRE课程12章2",
+    "slug": "SRE课程12章2",
+    "summary": "SRE课程12章2",
+    "content": "# SRE课程12章2\n\nSRE课程12章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-146",
+    "courseId": "sr-course-12",
+    "order": 3,
+    "title": "SRE课程12章3",
+    "slug": "SRE课程12章3",
+    "summary": "SRE课程12章3",
+    "content": "# SRE课程12章3\n\nSRE课程12章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-147",
+    "courseId": "sr-course-12",
+    "order": 4,
+    "title": "SRE课程12章4",
+    "slug": "SRE课程12章4",
+    "summary": "SRE课程12章4",
+    "content": "# SRE课程12章4\n\nSRE课程12章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-148",
+    "courseId": "sr-course-12",
+    "order": 5,
+    "title": "SRE课程12章5",
+    "slug": "SRE课程12章5",
+    "summary": "SRE课程12章5",
+    "content": "# SRE课程12章5\n\nSRE课程12章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-149",
+    "courseId": "sr-course-12",
+    "order": 6,
+    "title": "SRE课程12章6",
+    "slug": "SRE课程12章6",
+    "summary": "SRE课程12章6",
+    "content": "# SRE课程12章6\n\nSRE课程12章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-150",
+    "courseId": "sr-course-12",
+    "order": 7,
+    "title": "SRE课程12章7",
+    "slug": "SRE课程12章7",
+    "summary": "SRE课程12章7",
+    "content": "# SRE课程12章7\n\nSRE课程12章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-151",
+    "courseId": "sr-course-12",
+    "order": 8,
+    "title": "SRE课程12章8",
+    "slug": "SRE课程12章8",
+    "summary": "SRE课程12章8",
+    "content": "# SRE课程12章8\n\nSRE课程12章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-152",
+    "courseId": "sr-course-12",
+    "order": 9,
+    "title": "SRE课程12章9",
+    "slug": "SRE课程12章9",
+    "summary": "SRE课程12章9",
+    "content": "# SRE课程12章9\n\nSRE课程12章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-153",
+    "courseId": "sr-course-12",
+    "order": 10,
+    "title": "SRE课程12章10",
+    "slug": "SRE课程12章10",
+    "summary": "SRE课程12章10",
+    "content": "# SRE课程12章10\n\nSRE课程12章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-154",
+    "courseId": "sr-course-12",
+    "order": 11,
+    "title": "SRE课程12章11",
+    "slug": "SRE课程12章11",
+    "summary": "SRE课程12章11",
+    "content": "# SRE课程12章11\n\nSRE课程12章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-155",
+    "courseId": "sr-course-12",
+    "order": 12,
+    "title": "SRE课程12章12",
+    "slug": "SRE课程12章12",
+    "summary": "SRE课程12章12",
+    "content": "# SRE课程12章12\n\nSRE课程12章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-156",
+    "courseId": "sr-course-12",
+    "order": 13,
+    "title": "SRE课程12章13",
+    "slug": "SRE课程12章13",
+    "summary": "SRE课程12章13",
+    "content": "# SRE课程12章13\n\nSRE课程12章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-157",
+    "courseId": "sr-course-13",
+    "order": 1,
+    "title": "SRE课程13章1",
+    "slug": "SRE课程13章1",
+    "summary": "SRE课程13章1",
+    "content": "# SRE课程13章1\n\nSRE课程13章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-158",
+    "courseId": "sr-course-13",
+    "order": 2,
+    "title": "SRE课程13章2",
+    "slug": "SRE课程13章2",
+    "summary": "SRE课程13章2",
+    "content": "# SRE课程13章2\n\nSRE课程13章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-159",
+    "courseId": "sr-course-13",
+    "order": 3,
+    "title": "SRE课程13章3",
+    "slug": "SRE课程13章3",
+    "summary": "SRE课程13章3",
+    "content": "# SRE课程13章3\n\nSRE课程13章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-160",
+    "courseId": "sr-course-13",
+    "order": 4,
+    "title": "SRE课程13章4",
+    "slug": "SRE课程13章4",
+    "summary": "SRE课程13章4",
+    "content": "# SRE课程13章4\n\nSRE课程13章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-161",
+    "courseId": "sr-course-13",
+    "order": 5,
+    "title": "SRE课程13章5",
+    "slug": "SRE课程13章5",
+    "summary": "SRE课程13章5",
+    "content": "# SRE课程13章5\n\nSRE课程13章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-162",
+    "courseId": "sr-course-13",
+    "order": 6,
+    "title": "SRE课程13章6",
+    "slug": "SRE课程13章6",
+    "summary": "SRE课程13章6",
+    "content": "# SRE课程13章6\n\nSRE课程13章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-163",
+    "courseId": "sr-course-13",
+    "order": 7,
+    "title": "SRE课程13章7",
+    "slug": "SRE课程13章7",
+    "summary": "SRE课程13章7",
+    "content": "# SRE课程13章7\n\nSRE课程13章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-164",
+    "courseId": "sr-course-13",
+    "order": 8,
+    "title": "SRE课程13章8",
+    "slug": "SRE课程13章8",
+    "summary": "SRE课程13章8",
+    "content": "# SRE课程13章8\n\nSRE课程13章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-165",
+    "courseId": "sr-course-13",
+    "order": 9,
+    "title": "SRE课程13章9",
+    "slug": "SRE课程13章9",
+    "summary": "SRE课程13章9",
+    "content": "# SRE课程13章9\n\nSRE课程13章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-166",
+    "courseId": "sr-course-13",
+    "order": 10,
+    "title": "SRE课程13章10",
+    "slug": "SRE课程13章10",
+    "summary": "SRE课程13章10",
+    "content": "# SRE课程13章10\n\nSRE课程13章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-167",
+    "courseId": "sr-course-13",
+    "order": 11,
+    "title": "SRE课程13章11",
+    "slug": "SRE课程13章11",
+    "summary": "SRE课程13章11",
+    "content": "# SRE课程13章11\n\nSRE课程13章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-168",
+    "courseId": "sr-course-13",
+    "order": 12,
+    "title": "SRE课程13章12",
+    "slug": "SRE课程13章12",
+    "summary": "SRE课程13章12",
+    "content": "# SRE课程13章12\n\nSRE课程13章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-169",
+    "courseId": "sr-course-13",
+    "order": 13,
+    "title": "SRE课程13章13",
+    "slug": "SRE课程13章13",
+    "summary": "SRE课程13章13",
+    "content": "# SRE课程13章13\n\nSRE课程13章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-170",
+    "courseId": "sr-course-14",
+    "order": 1,
+    "title": "SRE课程14章1",
+    "slug": "SRE课程14章1",
+    "summary": "SRE课程14章1",
+    "content": "# SRE课程14章1\n\nSRE课程14章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-171",
+    "courseId": "sr-course-14",
+    "order": 2,
+    "title": "SRE课程14章2",
+    "slug": "SRE课程14章2",
+    "summary": "SRE课程14章2",
+    "content": "# SRE课程14章2\n\nSRE课程14章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-172",
+    "courseId": "sr-course-14",
+    "order": 3,
+    "title": "SRE课程14章3",
+    "slug": "SRE课程14章3",
+    "summary": "SRE课程14章3",
+    "content": "# SRE课程14章3\n\nSRE课程14章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-173",
+    "courseId": "sr-course-14",
+    "order": 4,
+    "title": "SRE课程14章4",
+    "slug": "SRE课程14章4",
+    "summary": "SRE课程14章4",
+    "content": "# SRE课程14章4\n\nSRE课程14章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-174",
+    "courseId": "sr-course-14",
+    "order": 5,
+    "title": "SRE课程14章5",
+    "slug": "SRE课程14章5",
+    "summary": "SRE课程14章5",
+    "content": "# SRE课程14章5\n\nSRE课程14章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-175",
+    "courseId": "sr-course-14",
+    "order": 6,
+    "title": "SRE课程14章6",
+    "slug": "SRE课程14章6",
+    "summary": "SRE课程14章6",
+    "content": "# SRE课程14章6\n\nSRE课程14章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-176",
+    "courseId": "sr-course-14",
+    "order": 7,
+    "title": "SRE课程14章7",
+    "slug": "SRE课程14章7",
+    "summary": "SRE课程14章7",
+    "content": "# SRE课程14章7\n\nSRE课程14章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-177",
+    "courseId": "sr-course-14",
+    "order": 8,
+    "title": "SRE课程14章8",
+    "slug": "SRE课程14章8",
+    "summary": "SRE课程14章8",
+    "content": "# SRE课程14章8\n\nSRE课程14章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-178",
+    "courseId": "sr-course-14",
+    "order": 9,
+    "title": "SRE课程14章9",
+    "slug": "SRE课程14章9",
+    "summary": "SRE课程14章9",
+    "content": "# SRE课程14章9\n\nSRE课程14章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-179",
+    "courseId": "sr-course-14",
+    "order": 10,
+    "title": "SRE课程14章10",
+    "slug": "SRE课程14章10",
+    "summary": "SRE课程14章10",
+    "content": "# SRE课程14章10\n\nSRE课程14章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-180",
+    "courseId": "sr-course-14",
+    "order": 11,
+    "title": "SRE课程14章11",
+    "slug": "SRE课程14章11",
+    "summary": "SRE课程14章11",
+    "content": "# SRE课程14章11\n\nSRE课程14章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-181",
+    "courseId": "sr-course-14",
+    "order": 12,
+    "title": "SRE课程14章12",
+    "slug": "SRE课程14章12",
+    "summary": "SRE课程14章12",
+    "content": "# SRE课程14章12\n\nSRE课程14章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sr-lesson-182",
+    "courseId": "sr-course-14",
+    "order": 13,
+    "title": "SRE课程14章13",
+    "slug": "SRE课程14章13",
+    "summary": "SRE课程14章13",
+    "content": "# SRE课程14章13\n\nSRE课程14章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SRE"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]
