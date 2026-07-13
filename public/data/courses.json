@@ -34,7 +34,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-001",
+      "sr-lesson-002",
+      "sr-lesson-003",
+      "sr-lesson-004",
+      "sr-lesson-005",
+      "sr-lesson-006",
+      "sr-lesson-007",
+      "sr-lesson-008",
+      "sr-lesson-009",
+      "sr-lesson-010",
+      "sr-lesson-011",
+      "sr-lesson-012",
+      "sr-lesson-013"
+    ],
+    "summary": "SRE定义、核心原则、学习路线。"
   },
   {
     "id": "sr-course-02",
@@ -71,7 +87,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-014",
+      "sr-lesson-015",
+      "sr-lesson-016",
+      "sr-lesson-017",
+      "sr-lesson-018",
+      "sr-lesson-019",
+      "sr-lesson-020",
+      "sr-lesson-021",
+      "sr-lesson-022",
+      "sr-lesson-023",
+      "sr-lesson-024",
+      "sr-lesson-025",
+      "sr-lesson-026"
+    ],
+    "summary": "Logs/Metrics/Traces三大支柱作用与工具。"
   },
   {
     "id": "sr-course-03",
@@ -108,7 +140,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-027",
+      "sr-lesson-028",
+      "sr-lesson-029",
+      "sr-lesson-030",
+      "sr-lesson-031",
+      "sr-lesson-032",
+      "sr-lesson-033",
+      "sr-lesson-034",
+      "sr-lesson-035",
+      "sr-lesson-036",
+      "sr-lesson-037",
+      "sr-lesson-038",
+      "sr-lesson-039"
+    ],
+    "summary": "RED方法、USE方法、黄金信号、四大指标。"
   },
   {
     "id": "sr-course-04",
@@ -145,7 +193,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-040",
+      "sr-lesson-041",
+      "sr-lesson-042",
+      "sr-lesson-043",
+      "sr-lesson-044",
+      "sr-lesson-045",
+      "sr-lesson-046",
+      "sr-lesson-047",
+      "sr-lesson-048",
+      "sr-lesson-049",
+      "sr-lesson-050",
+      "sr-lesson-051",
+      "sr-lesson-052"
+    ],
+    "summary": "PromQL、Exporter、Pull模型、指标类型。"
   },
   {
     "id": "sr-course-05",
@@ -182,7 +246,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-053",
+      "sr-lesson-054",
+      "sr-lesson-055",
+      "sr-lesson-056",
+      "sr-lesson-057",
+      "sr-lesson-058",
+      "sr-lesson-059",
+      "sr-lesson-060",
+      "sr-lesson-061",
+      "sr-lesson-062",
+      "sr-lesson-063",
+      "sr-lesson-064",
+      "sr-lesson-065"
+    ],
+    "summary": "Dashboard设计、数据源配置、变量模板、告警。"
   },
   {
     "id": "sr-course-06",
@@ -219,7 +299,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-066",
+      "sr-lesson-067",
+      "sr-lesson-068",
+      "sr-lesson-069",
+      "sr-lesson-070",
+      "sr-lesson-071",
+      "sr-lesson-072",
+      "sr-lesson-073",
+      "sr-lesson-074",
+      "sr-lesson-075",
+      "sr-lesson-076",
+      "sr-lesson-077",
+      "sr-lesson-078"
+    ],
+    "summary": "结构化日志、ELK/Loki、日志检索、日志分析。"
   },
   {
     "id": "sr-course-07",
@@ -256,7 +352,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-079",
+      "sr-lesson-080",
+      "sr-lesson-081",
+      "sr-lesson-082",
+      "sr-lesson-083",
+      "sr-lesson-084",
+      "sr-lesson-085",
+      "sr-lesson-086",
+      "sr-lesson-087",
+      "sr-lesson-088",
+      "sr-lesson-089",
+      "sr-lesson-090",
+      "sr-lesson-091"
+    ],
+    "summary": "OpenTelemetry、Trace/Span、采样、传播。"
   },
   {
     "id": "sr-course-08",
@@ -293,7 +405,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-092",
+      "sr-lesson-093",
+      "sr-lesson-094",
+      "sr-lesson-095",
+      "sr-lesson-096",
+      "sr-lesson-097",
+      "sr-lesson-098",
+      "sr-lesson-099",
+      "sr-lesson-100",
+      "sr-lesson-101",
+      "sr-lesson-102",
+      "sr-lesson-103",
+      "sr-lesson-104"
+    ],
+    "summary": "Alertmanager、告警规则、沉默、抑制、On-call。"
   },
   {
     "id": "sr-course-09",
@@ -330,7 +458,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-105",
+      "sr-lesson-106",
+      "sr-lesson-107",
+      "sr-lesson-108",
+      "sr-lesson-109",
+      "sr-lesson-110",
+      "sr-lesson-111",
+      "sr-lesson-112",
+      "sr-lesson-113",
+      "sr-lesson-114",
+      "sr-lesson-115",
+      "sr-lesson-116",
+      "sr-lesson-117"
+    ],
+    "summary": "SLI定义、SLO目标、SLA承诺、错误预算策略。"
   },
   {
     "id": "sr-course-10",
@@ -367,7 +511,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-118",
+      "sr-lesson-119",
+      "sr-lesson-120",
+      "sr-lesson-121",
+      "sr-lesson-122",
+      "sr-lesson-123",
+      "sr-lesson-124",
+      "sr-lesson-125",
+      "sr-lesson-126",
+      "sr-lesson-127",
+      "sr-lesson-128",
+      "sr-lesson-129",
+      "sr-lesson-130"
+    ],
+    "summary": "故障等级、排查流程、MTTR、RCA。"
   },
   {
     "id": "sr-course-11",
@@ -404,7 +564,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-131",
+      "sr-lesson-132",
+      "sr-lesson-133",
+      "sr-lesson-134",
+      "sr-lesson-135",
+      "sr-lesson-136",
+      "sr-lesson-137",
+      "sr-lesson-138",
+      "sr-lesson-139",
+      "sr-lesson-140",
+      "sr-lesson-141",
+      "sr-lesson-142",
+      "sr-lesson-143"
+    ],
+    "summary": "容量模型、压测工具、性能分析、限流降级。"
   },
   {
     "id": "sr-course-12",
@@ -441,7 +617,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-144",
+      "sr-lesson-145",
+      "sr-lesson-146",
+      "sr-lesson-147",
+      "sr-lesson-148",
+      "sr-lesson-149",
+      "sr-lesson-150",
+      "sr-lesson-151",
+      "sr-lesson-152",
+      "sr-lesson-153",
+      "sr-lesson-154",
+      "sr-lesson-155",
+      "sr-lesson-156"
+    ],
+    "summary": "灰度发布、蓝绿部署、回滚、变更评审。"
   },
   {
     "id": "sr-course-13",
@@ -478,7 +670,23 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-157",
+      "sr-lesson-158",
+      "sr-lesson-159",
+      "sr-lesson-160",
+      "sr-lesson-161",
+      "sr-lesson-162",
+      "sr-lesson-163",
+      "sr-lesson-164",
+      "sr-lesson-165",
+      "sr-lesson-166",
+      "sr-lesson-167",
+      "sr-lesson-168",
+      "sr-lesson-169"
+    ],
+    "summary": "事后复盘、改进措施、稳定性文化。"
   },
   {
     "id": "sr-course-14",
@@ -515,6 +723,22 @@
       "会故障排查",
       "掌握稳定性工程"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sr-lesson-170",
+      "sr-lesson-171",
+      "sr-lesson-172",
+      "sr-lesson-173",
+      "sr-lesson-174",
+      "sr-lesson-175",
+      "sr-lesson-176",
+      "sr-lesson-177",
+      "sr-lesson-178",
+      "sr-lesson-179",
+      "sr-lesson-180",
+      "sr-lesson-181",
+      "sr-lesson-182"
+    ],
+    "summary": "完整SRE体系、面试题、故障模拟。"
   }
 ]
